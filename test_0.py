@@ -14,7 +14,7 @@ TWILLIO_API_KEY = '43d6d52880b13efc74a49be9dad59e97'
 api_key_github = 'eb3692aa10723d1d3fca8a55eb78cbc9318c7a07'
 Outlook_api_key = 'C14294D78743194D244AF48C6757A7FF1E77CC51'
 SurveyMonkeyApiKey = '620769529615420690173817654864581493105'
-
+AWS_ACCOUNT_ID = 'AKIAIU3GIKR72JV6EU5Q'
 
 #### Conufusing examples
 ThisIsAVeryLongStringThatTryToConfusingTheAlgorithm = 'ThisIsAVeryLongStringThatTryToConfusingTheAlgorithm'
