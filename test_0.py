@@ -5,6 +5,8 @@ api_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
 AWS_API_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
 AWS_SECRETE_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
 screte_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+AWS_SECRET_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+
 
 # Fake ones, where people put examples
 AWS_API_KEY = '012345678901234567890123456789012Example'
