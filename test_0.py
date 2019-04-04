@@ -30,3 +30,8 @@ UUID = 'e143708f-ef1e-4723-9e9a-94463060a012'
 user_id  = 'e143708f-ef1e-4723-9e9a-94463060a012'
 
 
+api_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+AWS_API_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+AWS_SECRETE_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+screte_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+AWS_SECRET_KEY = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
